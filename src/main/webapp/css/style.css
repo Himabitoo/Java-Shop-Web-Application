@@ -1,0 +1,44 @@
+section{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.forminput{
+	width: 250px;
+	height: 30px;
+}
+
+h1,p{
+	text-align: center;
+}
+
+p.btngrp {
+    margin-left: 80px;
+}
+input[type="submit"],input[type="button"]{
+	padding:10px 30px ;
+	margin: 10px;
+	border: none;
+	background-color: blue;
+	color: white;
+}
+
+/*商品一覧ページ*/
+
+.navi_b{
+	text-align: right;
+	margin-right: 40px ;
+}
+
+.navi_s{
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+table{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+	border:solid 1px black;
+}
