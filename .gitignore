@@ -2,5 +2,5 @@
 build
 .project
 .classpath
-src/main/webapp/WEB-INF/lib/
-src/main/webapp/METE-INF
+src/main/webapp/WEB-INF/lib/mysql*
+src/main/webapp/META-INF
